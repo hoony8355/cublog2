@@ -1,0 +1,5 @@
+{
+  "name": "AI Coupang Partners Blog Generator",
+  "description": "An advanced AI tool to generate complete, SEO-optimized blog posts for Coupang Partners. Features multi-product reviews, automatic JSON-LD data filling, and generation of comprehensive schema markup (BlogPosting, Review, Product, FAQ) for enhanced search engine visibility.",
+  "requestFramePermissions": []
+}
